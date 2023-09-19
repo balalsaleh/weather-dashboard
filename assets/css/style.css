@@ -1,0 +1,24 @@
+.forecast-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.forecast-card {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-group button {
+  width: inherit; 
+  margin: 10px; 
+  max-width: 250px; 
+}
