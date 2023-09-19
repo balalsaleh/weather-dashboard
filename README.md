@@ -20,3 +20,5 @@ Create a weather dashboard with form inputs.
 - above is an example of how the weather dashboard looks.
 
 ## Link for deployment
+
+- link for deployment: https://balalsaleh.github.io/weather-dashboard/ 
